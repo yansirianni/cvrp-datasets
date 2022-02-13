@@ -1,5 +1,5 @@
 NAME : Y-n4-k2
-COMMENT : (Yan Sirianni, No of trucks: 2, Optimal value: ?)
+COMMENT : (Yan Sirianni, No of trucks: 2, Optimal value: 104.13)
 TYPE : CVRP
 DIMENSION : 4
 EDGE_WEIGHT_TYPE : EUC_2D
